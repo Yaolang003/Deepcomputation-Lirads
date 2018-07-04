@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/lirads-demo.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
